@@ -1,0 +1,8 @@
+(dp0
+S'orange'
+p1
+I1
+sS'iphone'
+p2
+I5000
+s.

@@ -1,0 +1,15 @@
+(dp0
+S'aaron'
+p1
+(dp2
+S'passwd'
+p3
+S'aaron'
+p4
+sS'cache'
+p5
+I2499
+sS'quota'
+p6
+I15000
+ss.
