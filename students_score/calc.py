@@ -1,5 +1,6 @@
 from data import students, quize
 from functools import reduce
+import re
 def calc(_quize):
     def inner(_student):
         ziped = zip(_student.ans, _quize)
@@ -11,3 +12,5 @@ def calc(_quize):
 ll = map(calc(quize), students)
 for each in ll:
     each
+
+pattern = re.compile(r'hello')
